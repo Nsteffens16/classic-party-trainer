@@ -19,3 +19,4 @@ This is the quickest web-hosted version of Classic Party Trainer.
 - Data saves in your browser using localStorage.
 - Use Export/Import JSON to share data between computers or with party members.
 - Screenshot OCR uses Tesseract.js from a CDN and should always be manually checked before saving.
+  
